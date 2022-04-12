@@ -7,6 +7,7 @@ import UploadPage from './pages/Upload';
 import HomePage from './pages/Home';
 
 import Footer from './components/Footer';
+import StarModal from './components/StarModal';
 import CardOptionsStore from './store/CardOptionsStore';
 import StoreContext from './store/StoreContext';
 import GlobalStyle from './GlobalStyle';
@@ -89,6 +90,7 @@ function App() {
                 <HomePage />
               </Route>
             </Switch>
+            <StarModal />
             <Footer />
           </Layout>
         </Router>
