@@ -12,6 +12,7 @@ import CardOptionsStore from './store/CardOptionsStore';
 import StoreContext from './store/StoreContext';
 import GlobalStyle from './GlobalStyle';
 import { NavigationBar } from './components/NavigationBar/NavigationBar';
+import StarModal from './components/StarModal';
 
 const TemplatePage = lazy(() => import('./pages/Templates'));
 const PreSignupPage = lazy(() => import('./pages/Register'));

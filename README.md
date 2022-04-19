@@ -1,4 +1,4 @@
-<p align="center"><img width="256" src="https://github.com/alemayhu/Notion-to-Anki/blob/master/web/public/mascot/Notion%201.png?raw=true" alt="Notion to Anki logo" /></p>
+<p align="center"><img width="256" src="./web/public/mascot/Notion%201.png?raw=true" alt="Notion to Anki logo" /></p>
 
 [![Discord](https://img.shields.io/discord/723998078201495642)](https://discord.com/invite/PSKC3uS) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40aalemayhu)](https://twitter.com/aalemayhu)
 
